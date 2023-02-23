@@ -39,6 +39,9 @@ const options = {
   searchIconColorHover: "#eb4034",
   cartIconColorHover: "#eb4034",
   cartIconMargin: "1vmax",
+  searchIconSize: "3vmax",
+  cartIconSize: "3vmax",
+  profileIconSize: "3vmax",
 };
 
 const Header = () => {
